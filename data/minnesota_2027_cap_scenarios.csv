@@ -1,0 +1,7 @@
+cap_assumption,salary_tier,existing_commitments,collier_salary,open_roster_slots,minimum_depth_cost,estimated_total,cap_remaining,fits_model
+7000000,Standard max,4392340,1190000.0,5,1404000,6986340.0,13660.0,True
+7000000,Potential supermax,4392340,1400000.0,5,1404000,7196340.0,-196340.0,False
+7500000,Standard max,4392340,1275000.0,5,1404000,7071340.0,428660.0,True
+7500000,Potential supermax,4392340,1500000.0,5,1404000,7296340.0,203660.0,True
+7910000,Standard max,4392340,1344700.0,5,1404000,7141040.0,768960.0,True
+7910000,Potential supermax,4392340,1582000.0,5,1404000,7378340.0,531660.0,True

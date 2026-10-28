@@ -1,0 +1,22 @@
+cap_assumption,scenario,collier_salary_tier,contracted_players,minimum_slots,collier_salary,minimum_roster_cost,estimated_total,cap_remaining,fits_cap_floor_model
+7000000,No Collier,None,6,6,0.0,1684800,6909316.0,90684.0,True
+7000000,Add Collier,Standard max,7,5,1190000.0,1404000,7818516.0,-818516.0,False
+7000000,Add Collier,Supermax,7,5,1400000.0,1404000,8028516.0,-1028516.0,False
+7000000,Replace Sabally,Standard max,6,6,1190000.0,1684800,7243566.0,-243566.0,False
+7000000,Replace Sabally,Supermax,6,6,1400000.0,1684800,7453566.0,-453566.0,False
+7000000,Replace Jones,Standard max,6,6,1190000.0,1684800,6849816.0,150184.0,True
+7000000,Replace Jones,Supermax,6,6,1400000.0,1684800,7059816.0,-59816.0,False
+7500000,No Collier,None,6,6,0.0,1684800,6909316.0,590684.0,True
+7500000,Add Collier,Standard max,7,5,1275000.0,1404000,7903516.0,-403516.0,False
+7500000,Add Collier,Supermax,7,5,1500000.0,1404000,8128516.0,-628516.0,False
+7500000,Replace Sabally,Standard max,6,6,1275000.0,1684800,7328566.0,171434.0,True
+7500000,Replace Sabally,Supermax,6,6,1500000.0,1684800,7553566.0,-53566.0,False
+7500000,Replace Jones,Standard max,6,6,1275000.0,1684800,6934816.0,565184.0,True
+7500000,Replace Jones,Supermax,6,6,1500000.0,1684800,7159816.0,340184.0,True
+7910000,No Collier,None,6,6,0.0,1684800,6909316.0,1000684.0,True
+7910000,Add Collier,Standard max,7,5,1344700.0,1404000,7973216.0,-63216.0,False
+7910000,Add Collier,Supermax,7,5,1582000.0,1404000,8210516.0,-300516.0,False
+7910000,Replace Sabally,Standard max,6,6,1344700.0,1684800,7398266.0,511734.0,True
+7910000,Replace Sabally,Supermax,6,6,1582000.0,1684800,7635566.0,274434.0,True
+7910000,Replace Jones,Standard max,6,6,1344700.0,1684800,7004516.0,905484.0,True
+7910000,Replace Jones,Supermax,6,6,1582000.0,1684800,7241816.0,668184.0,True
