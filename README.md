@@ -232,6 +232,194 @@ not measured projections of Collier's impact.
 the project's possession-based calculations and may
 differ from official league statistics.
 
+## 2027 Destination-Fit Scouting Evaluation
+
+This project evaluates four potential destinations for
+Napheesa Collier using an evidence-informed scouting
+framework. The objective is to assess the best
+opportunity from Collier's perspective, rather than
+determine which franchise has the strongest roster
+or the most available salary-cap space.
+
+### Evaluation Framework
+
+Five categories were assessed using a 1–5 scale.
+
+| Evaluation Category | Weight |
+|---|---:|
+| Basketball Compatibility | 25% |
+| Role & Opportunity | 25% |
+| Competitive Outlook | 20% |
+| Financial Opportunity | 15% |
+| Stability & Continuity | 15% |
+| **Total** | **100%** |
+
+Each category grade reflects scouting judgment informed
+by 2026 team-performance data, player production,
+roster construction, financial scenarios, and
+qualitative basketball analysis.
+
+### 1. Completed Scouting Evaluations
+
+![2027 Destination Fit Evaluations](visualizations/2027_destination_fit_evaluations.png)
+
+All 20 evaluations were completed before generating
+the final weighted rankings.
+
+Golden State received the highest Basketball
+Compatibility grade (4.5), while Minnesota received
+the highest Financial Opportunity grade (5.0).
+
+Both Minnesota and Golden State received 4.5 in
+Competitive Outlook and Role & Opportunity.
+
+The evaluations are structured scouting assessments,
+not probabilities of success or predictions of
+Collier's personal preferences.
+
+### 2. Baseline Weighted Destination Rankings
+
+The baseline score is calculated by multiplying
+each category grade by its assigned weight and
+summing the five contributions.
+
+| Rank | Destination | Weighted Score / 5 |
+|---|---|---:|
+| 1 | Minnesota Lynx | 4.450 |
+| 2 | Golden State Valkyries | 4.275 |
+| 3 | Toronto Tempo | 3.450 |
+| 4 | New York Liberty | 2.900 |
+
+Minnesota leads Golden State by 0.175 points under
+the baseline weighting framework.
+
+Minnesota's advantages in Financial Opportunity
+and Stability & Continuity outweigh Golden State's
+advantage in Basketball Compatibility.
+
+This margin reflects the selected evaluation
+weights and should not be interpreted as a
+statistical measure of certainty.
+
+### 3. Sensitivity Analysis
+
+![2027 Destination Fit Sensitivity Analysis](visualizations/2027_fit_sensitivity_comparison.png)
+
+To evaluate how dependent the rankings are on
+the selected category weights, six illustrative
+weighting scenarios were tested while keeping
+all 20 scouting grades unchanged.
+
+| Weighting Scenario | Leading Destination |
+|---|---|
+| Baseline | Minnesota |
+| Basketball-first | Golden State |
+| Role-first | Minnesota |
+| Competition-first | Minnesota |
+| Compensation-first | Minnesota |
+| Stability-first | Minnesota |
+
+Golden State leads by 0.050 points in the
+Basketball-first scenario.
+
+Minnesota leads in the other five tested scenarios,
+with its largest advantages occurring when financial
+opportunity or organizational stability receives
+additional emphasis.
+
+The six scenarios were selected to examine
+specific priorities. They do not represent
+a probability distribution or every possible
+combination of evaluation weights.
+
+### 4. Scouting Interpretation
+
+**Minnesota Lynx — Best Overall Baseline Fit**
+
+Minnesota offers Collier organizational familiarity,
+an established relationship with the coaching staff,
+proven supporting talent, and a potential financial
+advantage through a supermax contract scenario.
+
+Its strong 2026 performance without Collier also
+demonstrates the capabilities of its supporting cast.
+However, those results should not be interpreted
+as evidence that the team performs better because
+Collier is absent.
+
+**Golden State Valkyries — Best Basketball-First Alternative**
+
+Golden State offers strong stylistic compatibility
+with Collier's two-way game, an established defensive
+identity, and a potential opportunity to strengthen
+its half-court scoring.
+
+The primary concerns involve 2027 roster continuity
+and the redistribution of minutes, touches, and
+responsibilities when adding a high-usage star
+to an established rotation.
+
+**Toronto Tempo — Development and Leadership Opportunity**
+
+Toronto offers an opportunity for Collier to assume
+a major two-way role and help shape a developing
+competitive identity.
+
+Its modeled financial flexibility is substantial,
+but the team's 2026 defensive performance and
+competitive gap create uncertainty about its
+immediate championship potential.
+
+**New York Liberty — High Talent, More Complicated Fit**
+
+New York offers considerable established star talent,
+but potential positional overlap and offensive
+role distribution create questions about how
+Collier's strengths would be maximized.
+
+The direct-add financial scenario also exceeds
+the assumed salary cap, although alternative
+roster structures could change that result.
+
+### 5. Conclusion
+
+Under the baseline scouting framework, the
+Minnesota Lynx represent the strongest overall
+destination fit for Napheesa Collier.
+
+The Golden State Valkyries emerge as the strongest
+alternative when basketball compatibility is
+prioritized more heavily than compensation
+and organizational continuity.
+
+The findings support a conditional recommendation,
+not a prediction of Collier's eventual decision.
+
+Her actual priorities, contractual eligibility,
+available offers, health, future teammates, and
+the finalized 2027 league environment may affect
+which opportunity she considers most attractive.
+
+### 6. Analytical Limitations
+
+- The scouting grades incorporate subjective
+  basketball judgments and are not measured
+  probabilities.
+- Team-performance metrics are based on estimated
+  possessions and historical 2026 results.
+- Individual player availability, injuries, and
+  roster changes can affect team comparisons.
+- The financial scenarios rely on hypothetical
+  salary-cap and roster-cost assumptions.
+- Actual 2027 rosters and contract offers may
+  differ materially from the modeled scenarios.
+- Sensitivity scenarios are illustrative rather
+  than an exhaustive exploration of all weights.
+
+The model is intended to make scouting reasoning
+transparent, reproducible, and open to revision
+as new evidence becomes available.
+
 ## Data and Tools
 
 - Python
