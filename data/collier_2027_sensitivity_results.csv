@@ -1,0 +1,25 @@
+scenario,destination,weighted_score,rank
+Baseline,Golden State Valkyries,4.275,2
+Baseline,Minnesota Lynx,4.45,1
+Baseline,New York Liberty,2.9000000000000004,4
+Baseline,Toronto Tempo,3.45,3
+Basketball-first,Golden State Valkyries,4.3875,1
+Basketball-first,Minnesota Lynx,4.3375,2
+Basketball-first,New York Liberty,2.75,4
+Basketball-first,Toronto Tempo,3.375,3
+Role-first,Golden State Valkyries,4.35,2
+Role-first,Minnesota Lynx,4.45,1
+Role-first,New York Liberty,2.8,4
+Role-first,Toronto Tempo,3.4,3
+Competition-first,Golden State Valkyries,4.35,2
+Competition-first,Minnesota Lynx,4.425,1
+Competition-first,New York Liberty,2.8749999999999996,4
+Competition-first,Toronto Tempo,3.2499999999999996,3
+Compensation-first,Golden State Valkyries,4.2,2
+Compensation-first,Minnesota Lynx,4.55,1
+Compensation-first,New York Liberty,3.1,4
+Compensation-first,Toronto Tempo,3.575,3
+Stability-first,Golden State Valkyries,4.1,2
+Stability-first,Minnesota Lynx,4.45,1
+Stability-first,New York Liberty,2.9,4
+Stability-first,Toronto Tempo,3.575,3
