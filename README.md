@@ -65,6 +65,106 @@ These historical results establish a statistical baseline.
 They do not predict Collier's decision or determine
 which destination is the best overall fit.
 
+## 2027 Financial Opportunity Analysis
+
+Financial opportunity is evaluated from Napheesa Collier's
+perspective, considering both her potential earnings and
+the ability of a destination to maintain a competitive roster.
+
+All financial figures below are hypothetical scenario
+estimates, not confirmed 2027 salaries, cap figures,
+or contract offers.
+
+### 1. Collier's Potential Salary Opportunities
+
+![2027 Collier Salary Comparison](visualizations/2027_collier_salary_comparison.png)
+
+Under the modeled $7.91 million salary cap, the standard
+maximum salary is $1,344,700 (17% of the assumed cap).
+
+Minnesota's potential supermax scenario is $1,582,000
+(20% of the assumed cap), representing an additional
+$237,300 in annual compensation.
+
+The potential supermax depends on eligibility and
+applicable collective bargaining rules.
+
+This difference represents a meaningful financial
+consideration, but Collier's willingness to prioritize
+one opportunity over another cannot be determined
+through statistical analysis alone.
+
+New York's standard-maximum scenario represents a
+hypothetical offer amount, not proof that the existing
+roster could accommodate the signing without changes.
+
+### 2. Modeled Roster-Building Flexibility
+
+![2027 Cap Flexibility Comparison](visualizations/2027_cap_flexibility_comparison.png)
+
+The second financial visualization estimates the
+remaining salary-cap space after adding Collier and
+accounting for minimum-roster placeholders.
+
+At the modeled $7.91 million cap:
+
+- Toronto: $1,323,720 remaining
+- Golden State: $832,172 remaining
+- Minnesota (standard max): $768,960 remaining
+- Minnesota (potential supermax): $531,660 remaining
+- New York (direct addition): $63,216 over the assumed cap
+
+These estimates do not measure the quality of a team's
+supporting cast or guarantee that additional cap space
+can be converted into championship-level talent.
+
+New York's negative direct-add balance indicates that
+the modeled arrangement would require adjustments.
+It does not establish that every possible acquisition
+structure would be infeasible.
+
+### Financial Scouting Interpretation
+
+**Minnesota Lynx:** Potentially offers Collier the
+highest modeled individual compensation, alongside
+an established competitive foundation. Roster depth
+remains an important consideration.
+
+**Golden State Valkyries:** Offers a modeled standard
+maximum while retaining some financial flexibility.
+Maintaining an effective rotation and integrating
+Collier would still require roster decisions.
+
+**Toronto Tempo:** Has the largest modeled remaining
+cap space, but financial flexibility alone does not
+guarantee immediate championship contention.
+
+**New York Liberty:** Presents significant roster
+talent, but its direct-add model exceeds the assumed
+cap. Alternative roster structures would need
+additional evaluation.
+
+### Financial Modeling Limitations
+
+The models examine hypothetical cap levels of
+$7.0 million, $7.5 million, and $7.91 million.
+
+They use a 12-player roster requirement and a
+$280,800 minimum-salary placeholder for unfilled
+roster positions. Actual roster costs could differ
+based on player contracts, service time, and
+applicable league rules.
+
+Expansion-draft outcomes, roster changes, contract
+negotiations, and the final salary-cap framework
+could materially change the results.
+
+**Scouting principle:** Greater financial flexibility
+does not automatically indicate a better destination.
+The evaluation considers how financial opportunity
+interacts with basketball fit, competitive outlook,
+and organizational stability.
+
 ### 1. Estimated Net Rating
 
 ![2026 Destination Net Rating](visualizations/2026_destination_net_rating.png)
