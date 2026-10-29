@@ -188,9 +188,9 @@ ax.set_title(
 fig.text(
     0.5,
     0.015,
-    "Golden State's Competitive Outlook remains pending. "
-    "Category weights are shown for context only; "
-    "no final rankings have been calculated.",
+    "All 20 scouting evaluations completed. "
+    "Category weights reflect the assessment framework. "
+    "Grades are evidence-informed judgments, not predictions.",
     ha="center",
     fontsize=9
 )
