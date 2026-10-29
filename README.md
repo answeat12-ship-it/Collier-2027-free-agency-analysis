@@ -26,6 +26,26 @@ Which of the four organizations provides the strongest
 potential basketball and financial situation for Napheesa
 Collier entering the 2027 WNBA season?
 
+## Data Sources & Reproducibility
+
+The basketball data used in this project was
+downloaded from SportsDataverse, using ESPN-derived
+WNBA schedules and box-score statistics.
+
+The repository includes selected processed datasets,
+Python analysis scripts, scouting evaluations,
+and visualizations.
+
+Original source datasets are not currently distributed
+with the repository. The complete upstream analysis
+therefore requires obtaining the corresponding
+SportsDataverse datasets.
+
+For details on data origins, processing, assumptions,
+and reproducibility requirements, see:
+
+[Data Sources & Reproducibility](DATA_SOURCES.md)
+
 ## Evaluation Methodology
 
 Five weighted categories are used:
