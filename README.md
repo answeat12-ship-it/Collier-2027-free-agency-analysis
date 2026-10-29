@@ -55,6 +55,83 @@ The Python analysis examines:
 - Hypothetical 2027 salary-cap scenarios
 - Weighted destination evaluations
 
+## 2026 Team Performance: Key Findings
+
+The following visualizations compare the four potential
+2027 free-agency destinations using estimated 2026
+regular-season team performance.
+
+These historical results establish a statistical baseline.
+They do not predict Collier's decision or determine
+which destination is the best overall fit.
+
+### 1. Estimated Net Rating
+
+![2026 Destination Net Rating](visualizations/2026_destination_net_rating.png)
+
+Golden State (+8.98) and Minnesota (+8.69) recorded
+similarly strong estimated net ratings, separated by
+just 0.29 points per 100 possessions.
+
+New York (+3.81) also finished with a positive
+estimated net rating, while Toronto (-10.47)
+faced a substantially larger performance gap.
+
+These results should be interpreted alongside
+injury availability, roster changes, and differences
+in opponent strength.
+
+### 2. Offensive vs. Defensive Efficiency
+
+![2026 Offensive vs Defensive Efficiency](visualizations/2026_offense_defense_comparison.png)
+
+Although Golden State and Minnesota produced similar
+overall net ratings, their statistical profiles differed.
+
+**Golden State Valkyries**
+- Estimated offensive rating: 104.77
+- Estimated defensive rating: 95.79
+- Primary strength: Elite defensive efficiency
+
+**Minnesota Lynx**
+- Estimated offensive rating: 109.87
+- Estimated defensive rating: 101.18
+- Primary strength: Strong offensive production
+  combined with effective defense
+
+**New York Liberty**
+- Estimated offensive rating: 108.11
+- Estimated defensive rating: 104.30
+- Positive two-way performance, with room for
+  improvement in defensive efficiency
+
+**Toronto Tempo**
+- Estimated offensive rating: 103.01
+- Estimated defensive rating: 113.47
+- Defensive improvement represents a significant
+  potential opportunity
+
+### Scouting Interpretation
+
+Golden State's defensive foundation suggests Collier
+could provide additional offensive creation while
+contributing to an already strong defensive system.
+
+Minnesota's established offensive production suggests
+the challenge may be maximizing chemistry, distributing
+creation responsibilities, and integrating Collier
+within the existing team structure.
+
+New York's existing talent and Toronto's developing
+roster present different integration considerations.
+
+These are scouting hypotheses informed by the data,
+not measured projections of Collier's impact.
+
+**Methodology note:** All ratings are estimated using
+the project's possession-based calculations and may
+differ from official league statistics.
+
 ## Data and Tools
 
 - Python
